@@ -1,4 +1,5 @@
 # Building the Data Model 
+![](ERD.PNG)
 
 ## Steps 
 1. In the MODEL view, arrange your tables with the lookup tables above the data table
@@ -38,4 +39,4 @@ Notes:
    * In the Customers table, categorize "customer_city" as City, "customer_postal_code" as Postal Code, and "customer_country" as Country/Region
    * In the Stores table, categorize "store_city" as City, "store_state" as State or Province, "store_country" as Country/Region, and "full_address" as Address
   
-[](ERD.png)
+
