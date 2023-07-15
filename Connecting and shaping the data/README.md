@@ -1,4 +1,5 @@
 # Connecting and Shaping the Date 
+![](transformed_tables.PNG)
 
 ## Steps 
 1. Connected to 7 tables with 6 cvs files and 2 cvs files in a folder.
