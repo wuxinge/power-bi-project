@@ -8,3 +8,16 @@ The dataset is from Maven Market, a multi-national grocery chain with locations 
   2. [Building a relational model](https://github.com/wuxinge/power-bi-project/tree/3312585d679360ff367ee70b9345d3acbd5bb9fa/Building%20the%20data%20model)
   3. [Adding calculated fields with Data Analysis Expressions (DAX)](https://github.com/wuxinge/power-bi-project/blob/d04a04d08d81a376d697361c8baf843b89fc63af/Adding%20DAX%20Measures/README.md)
   4. [Designing an interactive dashboard](https://github.com/wuxinge/power-bi-project/tree/88843804e010b6ac811c73b94eba3d433789d354/Designing%20an%20interactive%20report) 
+
+## Showcase 
+* Matrix <br>
+![](Matrix.gif)
+
+* Map Slicer <br>
+![](Map_Slicer.gif)
+
+* Treemap <br>
+![](Treemap.gif)
+
+* Bookmark <br>
+![](Bookmark.gif)
