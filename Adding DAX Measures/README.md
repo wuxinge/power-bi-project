@@ -1,5 +1,5 @@
 # Adding DAX Measures 
-![](new_measures_table.png)
+![](new_measures_table.PNG)
 ## Steps 
 1. In the DATA view, add the following calculated columns:
 - In the Calendar table, add a column named "Weekend"
